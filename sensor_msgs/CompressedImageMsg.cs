@@ -12,7 +12,7 @@ using UnityEngine;
  * @author Michael Jenkin, Robert Codd-Downey and Andrew Speers
  * @version 3.1
  */
-
+ // just a question about how to integrate this message with a subscriber and how to display it in unity
 namespace ROSBridgeLib {
 	namespace sensor_msgs {
 		public class CompressedImageMsg : ROSBridgeMsg {
